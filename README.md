@@ -1,2 +1,2 @@
 # POO
-Implementado para el LAB2 y el Proyecto final de la materia.
+Implementado para el Labs y el Proyecto final.
